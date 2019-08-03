@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e9b6827-0df9-4063-bc69-c98cae8fdc98" name="Default Changelist" comment="" />
+    <list default="true" id="5e9b6827-0df9-4063-bc69-c98cae8fdc98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/background-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/salmon-1353598-1920 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-2455981-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-2853382-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-354628-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-546311-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-596930-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-933065-1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sushi-logo (3).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,19 +25,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="825">
+              <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -37,11 +54,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="378" />
-    <option name="y" value="37" />
-    <option name="width" value="1400" />
-    <option name="height" value="979" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1420" />
+    <option name="height" value="1003" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -49,12 +74,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="RestaurantProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestaurantProject" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
@@ -70,17 +101,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\images" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject" />
     </key>
   </component>
@@ -119,7 +156,22 @@
       <workItem from="1564333653127" duration="27000" />
       <workItem from="1564333688132" duration="77000" />
       <workItem from="1564333809362" duration="33000" />
-      <workItem from="1564333916307" duration="307000" />
+      <workItem from="1564333916307" duration="553000" />
+      <workItem from="1564334560567" duration="114000" />
+      <workItem from="1564334735946" duration="50000" />
+      <workItem from="1564403704663" duration="164000" />
+      <workItem from="1564403921527" duration="179000" />
+      <workItem from="1564791199575" duration="1805000" />
+      <workItem from="1564793318288" duration="1776000" />
+      <workItem from="1564801858607" duration="1630000" />
+      <workItem from="1564803720607" duration="1771000" />
+      <workItem from="1564805628068" duration="1844000" />
+      <workItem from="1564839604777" duration="1756000" />
+      <workItem from="1564841488604" duration="2092000" />
+      <workItem from="1564844329855" duration="1752000" />
+      <workItem from="1564846191230" duration="1800000" />
+      <workItem from="1564848120562" duration="964000" />
+      <workItem from="1564850128190" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -128,16 +180,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564334173979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added css">
+      <created>1564334337515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564334337515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444000" />
+    <option name="totallyTimeSpent" value="19527000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="378" y="37" width="1400" height="979" extended-state="0" />
+    <frame x="854" y="6" width="1420" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18668596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -180,19 +240,59 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started project" />
+    <MESSAGE value="Added css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added css" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/sushi-2455981-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-933065-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-2853382-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-596930-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-546311-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/salmon-1353598-1920 (1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-354628-1920.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background-image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sushi-logo (3).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="353">
+          <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
         </state>
       </provider>
     </entry>

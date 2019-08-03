@@ -12,3 +12,131 @@ body{
     font-size: 20px;
     text-rendering: optimizeLegibility;
 }
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(10, 33, 237, 0.4)), url("../images/background-image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    margin: 0;
+}
+
+.header-text {
+    padding-top: 150px;
+}
+
+#header-title {
+    max-width: 48%;
+    margin-left: 8.33%;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #81E0FD;
+    letter-spacing: 0.179487em;
+    font-size: 2.0em;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#header-buttons {
+    margin-top: 20px;
+    margin-left: 8.33%;
+    padding: 15px;
+    max-width: 33%;
+}
+
+#logo-text {
+    float: left;
+}
+
+#logo-image{
+    height: 50px;
+    width: auto;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+}
+
+#main-nav li {
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 0.8em;
+}
+
+#logo-text {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#main-nav li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #81E0FD;
+}
+
+#logo-text a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #81E0FD;
+    letter-spacing: 8px;
+    padding-left: 30px;
+}
+
+nav {
+    height: 70px;
+    padding: 25px;
+}
+
+.button:link,
+.button:visited {
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #81E0FD;
+    background: #0A21ED;
+    font-weight: 300;
+    border-radius: 150px;
+    transition: background-color 0.3s, border 0.3s;
+}
+.button-order:link,
+.button-order:visited{
+    background: #0A21ED;
+    border: 1px solid #81E0FD;
+}
+
+.button-more:link,
+.button-more:visited{
+    border: 1px solid #0A21ED;
+}
+.button:hover,
+.button:active {
+    background: #081abc;
+}
