@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="67" column="46" lean-forward="true" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+            <state relative-caret-position="275">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state relative-caret-position="400">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
       </list>
     </option>
   </component>
@@ -108,8 +108,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\images" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject" />
+      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\styles" />
+      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,7 +166,12 @@
       <workItem from="1564850128190" duration="1617000" />
       <workItem from="1570982563801" duration="184000" />
       <workItem from="1570987053548" duration="1492000" />
-      <workItem from="1571023207564" duration="1296000" />
+      <workItem from="1571023207564" duration="1786000" />
+      <workItem from="1571025089448" duration="77000" />
+      <workItem from="1571161642009" duration="1721000" />
+      <workItem from="1571163482403" duration="1375000" />
+      <workItem from="1571165411556" duration="1834000" />
+      <workItem from="1571167344624" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -188,14 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564851555710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Futers1">
+      <created>1571024691585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571024691585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22976000" />
+    <option name="totallyTimeSpent" value="29481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
@@ -243,7 +256,8 @@
     <MESSAGE value="Started project" />
     <MESSAGE value="Added css" />
     <MESSAGE value="Header and buttons has been added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Header and buttons has been added" />
+    <MESSAGE value="Futers1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Futers1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/sushi-2455981-1920.jpg">
@@ -281,20 +295,22 @@
     <entry file="file://$PROJECT_DIR$/images/sushi-logo (3).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/ionicons.svg" />
+    <entry file="file://$PROJECT_DIR$/styles/ionicons.min.css" />
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="400">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="67" column="46" lean-forward="true" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+        <state relative-caret-position="275">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>

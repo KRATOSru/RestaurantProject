@@ -1,3 +1,6 @@
+/************************************
+Common Styles
+************************************/
 * {
     margin: 0;
     padding: 0;
@@ -31,15 +34,32 @@ body{
     padding: 15px;
 }
 
+h1 {
+    margin: 0;
+}
+
+h2{
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section{
+    padding: 100px 0;
+}
+
+/************************************
+Header Styles
+************************************/
+
 header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(10, 33, 237, 0.4)), url("../images/background-image.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
-}
-
-h1 {
-    margin: 0;
 }
 
 .header-text {
@@ -113,6 +133,10 @@ nav {
     height: 70px;
     padding: 25px;
 }
+
+/************************************
+Button Styles
+************************************/
 
 .button:link,
 .button:visited {
