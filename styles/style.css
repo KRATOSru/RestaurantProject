@@ -188,3 +188,27 @@ Features Styles
 section p {
     font-size: 90%;
 }
+
+/************************************
+Food Images Styles
+************************************/
+
+.images-container{
+    list-style: none;
+    width: 100%;
+}
+
+.images-container li {
+    display: block;
+    float: left;
+    width: 25%;
+}
+
+.food-image{
+    width: 100%;
+}
+
+.food-image img{
+    width: 100%;
+    height: auto;
+}
