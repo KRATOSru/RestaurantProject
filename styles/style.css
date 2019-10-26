@@ -121,15 +121,22 @@ header{
     font-size: 0.8em;
 }
 
-#logo-text {
-    margin-top: 10px;
-    margin-left: 10px;
-}
-
-#main-nav li a {
+#main-nav li a:link,
+#main-nav li a:visited{
     text-decoration: none;
     text-transform: uppercase;
     color: #81E0FD;
+    opacity: 0.5;
+}
+
+#main-nav li a:hover,
+#main-nav li a:active{
+    opacity: 1;
+}
+
+#logo-text {
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 #logo-text a {
@@ -206,9 +213,15 @@ Food Images Styles
 
 .food-image{
     width: 100%;
+    overflow: hidden;
 }
 
 .food-image img{
     width: 100%;
     height: auto;
+    transform: scale(1.2);
+}
+
+.food-image img:hover {
+    transform: scale(1.05);
 }
