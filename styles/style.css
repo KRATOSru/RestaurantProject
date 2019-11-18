@@ -293,3 +293,14 @@ Cities Styles
 #cities-section{
     background-color: #f4eded;
 }
+
+/************************************
+Feedback Styles
+************************************/
+
+#feed-back-section{
+    background-color: yellow;
+}
+blockquote{
+    font-style: italic;
+}
