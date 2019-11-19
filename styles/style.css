@@ -304,3 +304,10 @@ Feedback Styles
 blockquote{
     font-style: italic;
 }
+
+cite img{
+    display: block;
+    width: 100px;
+    border: 2px solid #81E0FD;
+    border-radius: 50%;
+}
