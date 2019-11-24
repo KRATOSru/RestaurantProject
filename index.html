@@ -255,8 +255,47 @@
             <input type="text" name="email" id="email" placeholder="Введите email">
         </div>
     </div>
+        <div class="form-row ">
+            <div class="col-4">
+                <div>
+                    <label for ="topic">Выберите тему</label>
+                </div>
+                <select id="topic" name="topic">
+                    <option value="feedback">Отзыв</option>
+                    <option value="question">Вопрос</option>
+                    <option value="other">Другое</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-row ">
+            <div class="col-4">
+                <div>
+                    <label for ="news">Хочу получать новости о скидках!</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="news" id="news" checked>Да,конечно.
+                </div>
+            </div>
+        </div>
+        <div class="form-row ">
+        <div class="col-4">
+            <div>
+                <label for ="news">Напишите текст вашего письма</label>
+            </div>
+            <div>
+                <textarea name="text" id="text" placeholder="Введите текст"></textarea>
+            </div>
+        </div>
+    </div>
+        <div class="form-row ">
+            <div class="col-4">
+                <div>
+                   <input type="submit" value="Отправить">
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
 </body>
-</html>                    //6 минут
+</html>
