@@ -71,6 +71,10 @@ section{
     padding: 100px 0;
     clear: both;
 }
+section p,
+#contact-form{
+    font-size: 90%;
+}
 
 /************************************
 Header Styles
@@ -167,7 +171,7 @@ Button Styles
 ************************************/
 
 .button:link,
-.button:visited {
+.button:visited{
     display: inline-block;
     padding: 10px 30px;
     text-decoration: none;
@@ -200,10 +204,6 @@ Features Styles
     text-align: center;
     margin-bottom: 20px;
     font-size: 110%;
-}
-
-section p {
-    font-size: 90%;
 }
 
 /************************************
@@ -311,3 +311,12 @@ cite img{
     border: 2px solid #81E0FD;
     border-radius: 50%;
 }
+
+/************************************
+Contact Form Styles
+************************************/
+
+#submit{
+    color: red;
+}
+
