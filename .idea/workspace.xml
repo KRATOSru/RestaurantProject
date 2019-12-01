@@ -4,6 +4,7 @@
     <list default="true" id="5e9b6827-0df9-4063-bc69-c98cae8fdc98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="309" column="14" lean-forward="true" selection-start-line="309" selection-start-column="14" selection-end-line="309" selection-end-column="14" />
+            <state relative-caret-position="328">
+              <caret line="139" column="19" lean-forward="true" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -28,8 +29,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1925">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="489">
+              <caret line="330" column="1" lean-forward="true" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+              <folding>
+                <marker date="1575209289018" expanded="true" signature="339:384" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
       </list>
     </option>
   </component>
@@ -64,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +207,12 @@
       <workItem from="1574595469834" duration="2028000" />
       <workItem from="1574597582118" duration="154000" />
       <workItem from="1574614082988" duration="1721000" />
-      <workItem from="1574615863533" duration="532000" />
+      <workItem from="1574615863533" duration="1033000" />
+      <workItem from="1575193359298" duration="1784000" />
+      <workItem from="1575195459690" duration="1542000" />
+      <workItem from="1575198552257" duration="1816000" />
+      <workItem from="1575207095673" duration="1824000" />
+      <workItem from="1575208998907" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -324,14 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574597622557</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Footer 1">
+      <created>1574616642786</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574616642786</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73487000" />
+    <option name="totallyTimeSpent" value="81668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
@@ -393,7 +409,8 @@
     <MESSAGE value="contact-form1" />
     <MESSAGE value="contact-form2" />
     <MESSAGE value="contact-form3" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact-form3" />
+    <MESSAGE value="Footer 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Footer 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -428,9 +445,6 @@
     <entry file="file://$PROJECT_DIR$/images/odessa.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/lviv.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/user1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -449,9 +463,6 @@
     <entry file="file://$PROJECT_DIR$/images/sushi-546311-1920.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sushi-373587-1920 (1).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sushi-354628-1920.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -464,22 +475,31 @@
     <entry file="file://$PROJECT_DIR$/images/feedback-background.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="309" column="14" lean-forward="true" selection-start-line="309" selection-start-column="14" selection-end-line="309" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/images/sushi-373587-1920 (1).jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/images/lviv.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="330" column="1" lean-forward="true" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+          <folding>
+            <marker date="1575209289018" expanded="true" signature="339:384" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="139" column="19" lean-forward="true" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

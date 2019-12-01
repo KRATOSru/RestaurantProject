@@ -16,6 +16,14 @@ body{
     text-rendering: optimizeLegibility;
 }
 
+/*оптимизация под мобильные устр-ва, не дописан
+/*html, body{*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    width: 100%;*/
+/*    overflow-x: hidden;*/
+/*}*/
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -45,6 +53,8 @@ h2{
     word-spacing: 2px;
     text-align: center;
     margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h2:after{
@@ -241,7 +251,7 @@ How To Order Styles
 ************************************/
 
 #phone-image{
-    width: 100%;
+    width: 70%;
 }
 
 #phone-image-container{
@@ -320,3 +330,6 @@ Contact Form Styles
     color: red;
 }
 
+/*Media queries не реализован*/
+
+/*Так же прописать префиксы надо для CC3, чтобы оптимально сайт отображался в других браузерах*/
