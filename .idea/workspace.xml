@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="139" column="19" lean-forward="true" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+            <state relative-caret-position="200">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -29,10 +29,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="330" column="1" lean-forward="true" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
               <folding>
-                <marker date="1575209289018" expanded="true" signature="339:384" ph="..." />
+                <marker date="1575703678094" expanded="true" signature="339:384" ph="..." />
               </folding>
             </state>
           </provider>
@@ -212,7 +212,9 @@
       <workItem from="1575195459690" duration="1542000" />
       <workItem from="1575198552257" duration="1816000" />
       <workItem from="1575207095673" duration="1824000" />
-      <workItem from="1575208998907" duration="714000" />
+      <workItem from="1575208998907" duration="1487000" />
+      <workItem from="1575700496888" duration="1756000" />
+      <workItem from="1575702327748" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -340,14 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574616642786</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="html, css has been finished">
+      <created>1575209867872</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575209867872</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81668000" />
+    <option name="totallyTimeSpent" value="85714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
@@ -410,7 +419,8 @@
     <MESSAGE value="contact-form2" />
     <MESSAGE value="contact-form3" />
     <MESSAGE value="Footer 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer 1" />
+    <MESSAGE value="html, css has been finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="html, css has been finished" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -486,18 +496,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="330" column="1" lean-forward="true" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
           <folding>
-            <marker date="1575209289018" expanded="true" signature="339:384" ph="..." />
+            <marker date="1575703678094" expanded="true" signature="339:384" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="139" column="19" lean-forward="true" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        <state relative-caret-position="200">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
