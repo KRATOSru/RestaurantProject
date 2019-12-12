@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 // реализован эффект появляющейся и исчезающей панели при прокручивании сайта
-    //sticky-nam
+    //sticky-nav
     var waypoint = new Waypoint({
         element: document.getElementById('restaurant-description'),
         handler: function(direction) {
@@ -15,7 +15,7 @@ $(document).ready(function () {
     });
 
     //перемещаемся при нажатии на кнопки
-    //buttons click
+    //buttons and nav links click
     $(".button-order").click(function () {
         $("html,body").animate({scrollTop: $("#how-to-order-section").offset().top},1000);
         
@@ -25,6 +25,7 @@ $(document).ready(function () {
 
     });
 
+    //код скопированный с сайта https://css-tricks.com/smooth-scrolling-accessibility/ для перехода по ссылкам
     $(function() {
         $('a[href*="#"]:not([href="#"])').click(function() {
             if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -38,5 +39,14 @@ $(document).ready(function () {
                 }
             }
         });
+    });
+
+    //animation
+    var waypoint = new Waypoint({
+        element: document.getElementById('restaurant-description'),
+        handler: function(direction) {
+            $(".anim1").addClass("animated fadeIn");
+        },
+        offset: 80
     });
 })
