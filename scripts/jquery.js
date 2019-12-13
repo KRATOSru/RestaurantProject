@@ -49,4 +49,33 @@ $(document).ready(function () {
         },
         offset: 80
     });
+
+    var waypoint = new Waypoint({
+        element: document.getElementById('cities-section'),
+        handler: function(direction) {
+            $(".anim2").addClass("animated fadeInRight");
+        },
+        offset: 80
+    });
+
+    var waypoint = new Waypoint({
+        element: document.getElementById('how-to-order-section'),
+        handler: function(direction) {
+            $(".anim3").addClass("animated fadeInUp");
+        },
+        offset: 80
+    });
+
+    // эффект shake не работает на кнопке , надо доработать
+    var waypoint = new Waypoint({
+        element: document.getElementById('header-text'),
+        handler: function(direction) {
+            if (direction == "up") {
+                $(".anim4").addClass("animated shake")
+            }else {
+                $(".anim4").removeClass("animated shake")
+            }
+        },
+        offset: 80
+    });
 })

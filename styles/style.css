@@ -97,7 +97,7 @@ header{
     background-size: cover;
 }
 
-.header-text {
+#header-text {
     padding-top: 150px;
 }
 
@@ -384,10 +384,17 @@ Animation Styles
 ************************************/
 
  /*сначала текст не виден, потом при прокручивании появляется "Уникальные блюда"*/
-.anim1{
+.anim1,
+.anim2,
+.anim3{
      opacity: 0;
  }
 
-.anim1.animated{
+.anim1.animated,
+.anim2.animated,
+.anim2.animated{
     opacity: 1;
+}
+.anim2.animated{
+    animation-duration: 0.5s;
 }

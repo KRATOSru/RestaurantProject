@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e9b6827-0df9-4063-bc69-c98cae8fdc98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/animate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.js" afterDir="false" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1750">
-              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+            <state relative-caret-position="350">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -31,22 +30,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="385" column="63" lean-forward="true" selection-start-line="385" selection-start-column="63" selection-end-line="385" selection-end-column="63" />
+            <state relative-caret-position="328">
+              <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
               <folding>
-                <marker date="1576177919921" expanded="true" signature="339:384" ph="..." />
+                <marker date="1576264408816" expanded="true" signature="339:384" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="47" column="52" lean-forward="true" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+            <state relative-caret-position="289">
+              <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
               <folding>
-                <marker date="1576177957904" expanded="true" signature="455:465" ph="..." />
+                <marker date="1576265515570" expanded="true" signature="455:465" ph="..." />
+                <marker date="1576265515570" expanded="true" signature="2271:2305" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,8 +70,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles/animate.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scripts/jquery.js" />
       </list>
     </option>
@@ -246,7 +246,9 @@
       <workItem from="1576167706330" duration="1529000" />
       <workItem from="1576172580840" duration="1662000" />
       <workItem from="1576174477120" duration="1718000" />
-      <workItem from="1576177044392" duration="908000" />
+      <workItem from="1576177044392" duration="1247000" />
+      <workItem from="1576262695403" duration="1746000" />
+      <workItem from="1576264510418" duration="999000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -402,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576174152030</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Animation 1">
+      <created>1576178181073</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1576178181073</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96540000" />
+    <option name="totallyTimeSpent" value="99624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -476,7 +485,8 @@
     <MESSAGE value="sticky panel" />
     <MESSAGE value=" jquery plagin has been added" />
     <MESSAGE value="jquery перемещение по ссылкам" />
-    <option name="LAST_COMMIT_MESSAGE" value="jquery перемещение по ссылкам" />
+    <MESSAGE value="Animation 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animation 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -563,13 +573,6 @@
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/add.svg" />
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/tv.svg" />
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/at.svg" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1750">
-          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89975">
@@ -579,21 +582,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="385" column="63" lean-forward="true" selection-start-line="385" selection-start-column="63" selection-end-line="385" selection-end-column="63" />
+        <state relative-caret-position="328">
+          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
           <folding>
-            <marker date="1576177919921" expanded="true" signature="339:384" ph="..." />
+            <marker date="1576264408816" expanded="true" signature="339:384" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="47" column="52" lean-forward="true" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+        <state relative-caret-position="289">
+          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
           <folding>
-            <marker date="1576177957904" expanded="true" signature="455:465" ph="..." />
+            <marker date="1576265515570" expanded="true" signature="455:465" ph="..." />
+            <marker date="1576265515570" expanded="true" signature="2271:2305" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
