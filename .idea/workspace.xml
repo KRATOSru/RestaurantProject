@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e9b6827-0df9-4063-bc69-c98cae8fdc98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/android-chrome-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_package_v0.16 (1)/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,11 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="425">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -30,10 +49,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+            <state relative-caret-position="10000">
+              <caret line="400" column="81" selection-start-line="400" selection-start-column="81" selection-end-line="400" selection-end-column="81" />
               <folding>
-                <marker date="1576264408816" expanded="true" signature="339:384" ph="..." />
+                <marker date="1576688269129" expanded="true" signature="339:384" ph="..." />
               </folding>
             </state>
           </provider>
@@ -42,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="1700">
               <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
               <folding>
                 <marker date="1576265515570" expanded="true" signature="455:465" ph="..." />
@@ -55,13 +74,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/animate.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89975">
-              <caret line="3599" selection-start-line="3599" selection-end-line="3599" />
+            <state relative-caret-position="89200">
+              <caret line="3568" column="1" selection-start-line="3568" selection-start-column="1" selection-end-line="3568" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,9 +96,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles/animate.css" />
+        <option value="$PROJECT_DIR$/scripts/jquery.js" />
         <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/scripts/jquery.js" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/html/about.html" />
       </list>
     </option>
   </component>
@@ -88,12 +117,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="RestaurantProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestaurantProject" type="462c0819:PsiDirectoryNode" />
+              <item name="favicon_package_v0.16 (1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestaurantProject" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RestaurantProject" type="b2602c69:ProjectViewProjectNode" />
@@ -114,13 +154,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -132,11 +172,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\html" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\styles" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\images" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\scripts" />
       <recent name="C:\Users\v-vlkart\WebstormProjects\RestaurantProject\images" />
     </key>
@@ -153,13 +195,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RestaurantProject/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RestaurantProject/html/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RestaurantProject/html/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +294,11 @@
       <workItem from="1576174477120" duration="1718000" />
       <workItem from="1576177044392" duration="1247000" />
       <workItem from="1576262695403" duration="1746000" />
-      <workItem from="1576264510418" duration="999000" />
+      <workItem from="1576264510418" duration="1304000" />
+      <workItem from="1576686773842" duration="1238000" />
+      <workItem from="1576691059962" duration="1082000" />
+      <workItem from="1576693315766" duration="1768000" />
+      <workItem from="1576695142224" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="Started project">
       <created>1564334173979</created>
@@ -411,17 +461,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576178181073</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Animation 2">
+      <created>1576265684874</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576265684874</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99624000" />
+    <option name="totallyTimeSpent" value="104927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13086583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,7 +543,8 @@
     <MESSAGE value=" jquery plagin has been added" />
     <MESSAGE value="jquery перемещение по ссылкам" />
     <MESSAGE value="Animation 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animation 1" />
+    <MESSAGE value="Animation 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animation 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -573,26 +631,19 @@
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/add.svg" />
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/tv.svg" />
     <entry file="file://$PROJECT_DIR$/styles/ionicons-master/src/svg/at.svg" />
-    <entry file="file://$PROJECT_DIR$/styles/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89975">
-          <caret line="3599" selection-start-line="3599" selection-end-line="3599" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        <state relative-caret-position="10000">
+          <caret line="400" column="81" selection-start-line="400" selection-start-column="81" selection-end-line="400" selection-end-column="81" />
           <folding>
-            <marker date="1576264408816" expanded="true" signature="339:384" ph="..." />
+            <marker date="1576688269129" expanded="true" signature="339:384" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="1700">
           <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
           <folding>
             <marker date="1576265515570" expanded="true" signature="455:465" ph="..." />
@@ -601,10 +652,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="89200">
+          <caret line="3568" column="1" selection-start-line="3568" selection-start-column="1" selection-end-line="3568" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="106" />
         </state>
       </provider>
     </entry>

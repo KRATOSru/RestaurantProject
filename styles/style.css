@@ -295,7 +295,7 @@ How To Order Styles
 ************************************/
 
 #phone-image{
-    width: 70%;
+    width: 55%;
 }
 
 #phone-image-container{
@@ -398,3 +398,5 @@ Animation Styles
 .anim2.animated{
     animation-duration: 0.5s;
 }
+/*Responsive navigation можно реализовать, чтобы при уменьшении экрана браузера*/
+/*или мобильного телефона панель меню корректно отображалось*/
