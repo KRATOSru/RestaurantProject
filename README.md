@@ -1,1 +1,1 @@
-# RestaurantProject
+Статический сайт ресторана созданный на HTML5,CSS3, и JQuery.
